@@ -90,6 +90,13 @@ If `measure` function return always false, check connections. If this don't help
 and look on the section [other configuration for DHT sensor](#ocoDHTs).
 
 
+## Sources
+
+* [DHT11 User manual](https://www.maritex.com.pl/product/attachment/147097/e3ba4b862ce252dac75137c2b42b983f)
+* [DHT22 AM2303](https://cdn-shop.adafruit.com/datasheets/DHT22.pdf)
+* [DHT22 AM2302](http://ecx.images-amazon.com/images/I/D1Z25gUvJSS.pdf)
+
+
 ## License
 
 Copyright © 2021 Krzysztof Swałdek.
